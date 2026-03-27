@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "Onyx Storm",
+    "autor": "Rebecca Yarros",
+    "precio": 24900,
+    "stock": 150,
+    "categoria": "Fantasía",
+    "resumen": "La esperada tercera parte de la saga Empyrean. Violet Sorrengail debe decidir en quién confiar mientras la guerra se intensifica.",
+    "resumen_extended": "En esta trepidante continuación, Violet Sorrengail se enfrenta a desafíos que ponen a prueba no solo su resistencia física, sino también su lealtad hacia aquellos que ama. Con el Colegio de Guerra Basgiath al borde del colapso y las conspiraciones políticas amenazando la seguridad de los jinetes de dragones, ella deberá desentrañar secretos ancestrales que podrían cambiar el curso de la historia de Navarre para siempre.\n\nMientras su relación con Xaden Riorson se vuelve más compleja bajo la presión del mando y la desconfianza, Violet descubre que el verdadero enemigo podría estar más cerca de lo que imaginaba. Esta entrega profundiza en la mitología de los dragones y presenta batallas épicas que consolidan a la serie como el fenómeno de la fantasía moderna más importante de la década.",
+    "imagen_portada": "/covers/1.jpg",
+    "año": 2025
+  },
+  {
+    "id": 2,
+    "nombre": "The Housemaid's Secret",
+    "autor": "Freida McFadden",
+    "precio": 17500,
+    "stock": 85,
+    "categoria": "Thriller",
+    "resumen": "Un thriller psicológico adictivo sobre una empleada doméstica que descubre secretos oscuros en la familia para la que trabaja.",
+    "resumen_extended": "Millie Calloway está acostumbrada a limpiar los desastres de los demás, pero cuando acepta un nuevo trabajo en la lujosa mansión de los Garrick, se da cuenta de que algunas manchas son imposibles de quitar. A pesar de las estrictas reglas de la casa y la atmósfera opresiva, Millie intenta mantener su profesionalismo, hasta que ruidos extraños provenientes de una habitación prohibida despiertan su instinto de supervivencia.\n\nLa trama se complica cuando Millie descubre que su empleadora no es la mujer frágil que aparenta ser y que su esposo guarda un secreto aterrador que involucra desapariciones pasadas. Con giros narrativos inesperados, McFadden construye una atmósfera de suspenso donde nadie es quien dice ser y la verdad resulta ser más peligrosa que el silencio.",
+    "imagen_portada": "/covers/2.jpg",
+    "año": 2023
+  },
+  {
+    "id": 3,
+    "nombre": "Wind and Truth",
+    "autor": "Brandon Sanderson",
+    "precio": 32900,
+    "stock": 40,
+    "categoria": "Fantasía Épica",
+    "resumen": "El apoteósico final de la primera era de El Archivo de las Tormentas. Los héroes de Roshar deben salvar su mundo.",
+    "resumen_extended": "Tras años de conflicto, la guerra de las tormentas llega a su punto crítico en esta conclusión monumental de la primera pentalogía de Roshar. Kaladin Bendito por la Tormenta, Shallan Davar y Dalinar Kholin deben unir sus fuerzas en una última resistencia desesperada contra las fuerzas del Odio, mientras el destino de toda la creación pende de un hilo en un duelo de campeones programado para diez días.\n\nSanderson entrelaza magistralmente las historias de superación personal de sus protagonistas con un sistema de magia complejo y revelaciones sobre los orígenes de los Heraldos. Es una obra que no solo cierra arcos narrativos iniciados hace una década, sino que expande el Cosmere hacia horizontes desconocidos, ofreciendo un cierre emocional y épico para una de las mayores sagas de nuestra generación.",
+    "imagen_portada": "/covers/3.jpg",
+    "año": 2024
+  },
+  {
+    "id": 4,
+    "nombre": "Funny Story",
+    "autor": "Emily Henry",
+    "precio": 18900,
+    "stock": 120,
+    "categoria": "Romance",
+    "resumen": "Daphne y Miles se convierten en compañeros de cuarto por despecho, descubriendo que el amor surge donde menos se espera.",
+    "resumen_extended": "Daphne siempre se consideró la protagonista de su propia vida, hasta que su prometido la dejó por su mejor amiga de la infancia. Sin hogar y con el corazón roto en un pueblo donde no conoce a nadie, termina compartiendo departamento con la única persona que entiende su dolor: Miles, el ex novio de la mujer por la cual la dejaron. Lo que comienza como un pacto de convivencia incómoda se transforma en un plan para fingir que han superado sus traumas.\n\nLa química entre ambos crece entre conversaciones nocturnas y paseos por el pueblo, desafiando sus propias nociones sobre lo que significa el hogar y la felicidad. Con el toque característico de Emily Henry, la novela explora con humor y vulnerabilidad cómo los finales inesperados pueden ser el prólogo de la mejor historia de nuestras vidas.",
+    "imagen_portada": "/covers/4.jpg",
+    "año": 2024
+  },
+  {
+    "id": 5,
+    "nombre": "The Women",
+    "autor": "Kristin Hannah",
+    "precio": 21500,
+    "stock": 60,
+    "categoria": "Ficción Histórica",
+    "resumen": "Una poderosa historia sobre las enfermeras que sirvieron en la guerra de Vietnam y su difícil regreso a casa.",
+    "resumen_extended": "Frankie McGrath es una joven estudiante de enfermería que decide alistarse en el Cuerpo de Enfermeras del Ejército durante el punto más álgido de la guerra de Vietnam. En medio del caos de las zonas de combate, Frankie descubre una valentía que no sabía que poseía, formando lazos inquebrantables con sus compañeras mientras enfrentan la cruda realidad de la medicina de guerra en condiciones extremas.\n\nSin embargo, el verdadero desafío comienza cuando regresa a unos Estados Unidos profundamente divididos que no reconocen el sacrificio de las mujeres en el conflicto. Hannah entrega un retrato desgarrador y necesario sobre el trauma, la resiliencia y la lucha por el reconocimiento, rindiendo homenaje a toda una generación de mujeres olvidadas por la historia oficial.",
+    "imagen_portada": "/covers/5.jpg",
+    "año": 2024
+  },
+  {
+    "id": 6,
+    "nombre": "Intermezzo",
+    "autor": "Sally Rooney",
+    "precio": 19900,
+    "stock": 95,
+    "categoria": "Ficción Contemporánea",
+    "resumen": "Dos hermanos lidian con el duelo tras la muerte de su padre, explorando la familia y el deseo.",
+    "resumen_extended": "Peter y Ivan Koubek son dos hermanos que parecen no tener nada en común excepto el apellido y el dolor reciente por la pérdida de su padre. Peter, un exitoso abogado de Dublín, lucha por mantener el control de su vida mientras se debate entre dos relaciones sentimentales complejas. Por otro lado, Ivan, un prodigio del ajedrez socialmente torpe, encuentra consuelo en una conexión inesperada con una mujer mayor que él.\n\nRooney explora con su prosa precisa y honesta los espacios intermedios de las relaciones humanas: los silencios, los malentendidos y los momentos de vulnerabilidad absoluta. Es una meditación profunda sobre cómo el duelo puede separar a las personas o forzarlas a encontrarse en los lugares más inesperados de la madurez.",
+    "imagen_portada": "/covers/6.jpg",
+    "año": 2024
+  },
+  {
+    "id": 7,
+    "nombre": "James",
+    "autor": "Percival Everett",
+    "precio": 18500,
+    "stock": 30,
+    "categoria": "Ficción",
+    "resumen": "Una brillante reimaginación de 'Huckleberry Finn' contada desde la perspectiva del esclavo Jim.",
+    "resumen_extended": "En esta audaz reinterpretación del clásico de Mark Twain, conocemos la verdadera voz de Jim, un hombre con una inteligencia aguda y un dominio del lenguaje que oculta frente a sus opresores para sobrevivir. Mientras viaja por el río Mississippi con Huck, Jim no solo busca su libertad física, sino que reflexiona sobre la identidad, la hipocresía social y la lucha por ser el autor de su propia narrativa.\n\nEverett transforma una historia familiar en una crítica mordaz y profundamente conmovedora sobre la raza y la condición humana. A través de los ojos de James, el lector descubre las capas de resistencia y la rica vida interior de un personaje que la literatura tradicional a menudo dejó en las sombras, otorgándole finalmente la profundidad que siempre mereció.",
+    "imagen_portada": "/covers/7.jpg",
+    "año": 2024
+  },
+  {
+    "id": 8,
+    "nombre": "The Waiting",
+    "autor": "Michael Connelly",
+    "precio": 22900,
+    "stock": 55,
+    "categoria": "Misterio",
+    "resumen": "Renée Ballard y Harry Bosch se unen para resolver un caso frío que involucra a un asesino en serie antiguo.",
+    "resumen_extended": "La detective Renée Ballard lidera la unidad de casos fríos del LAPD cuando una coincidencia de ADN la lleva tras la pista de un depredador que ha estado activo durante décadas. Para resolver este rompecabezas mortal, busca la ayuda de un Harry Bosch retirado pero aún implacable, cuya experiencia y memoria resultan vitales para conectar crímenes que la policía consideraba aislados.\n\nLa investigación se convierte en una carrera contra el tiempo que desentierra secretos de la propia policía de Los Ángeles y pone a Ballard en el punto de mira de fuerzas poderosas. Connelly demuestra una vez más por qué es el maestro del procedimiento policial moderno, entregando una trama llena de adrenalina que explora la obsesión por la justicia y el peso del pasado.",
+    "imagen_portada": "/covers/8.jpg",
+    "año": 2024
+  },
+  {
+    "id": 9,
+    "nombre": "A Fate Inked in Blood",
+    "autor": "Danielle L. Jensen",
+    "precio": 24500,
+    "stock": 75,
+    "categoria": "Romantasy",
+    "resumen": "Saga vikinga sobre una mujer marcada por los dioses que navega entre la magia y una atracción prohibida.",
+    "resumen_extended": "Freya es una joven que ha ocultado su secreto toda la vida: posee la sangre de los dioses, un don que la convierte en una pieza valiosa y peligrosa en los juegos de poder de los caudillos vikingos. Cuando su aldea es atacada, se ve obligada a revelar su poder para sobrevivir, terminando bajo la protección y vigilancia del hijo de un tirano, un guerrero tan letal como atractivo que despierta en ella deseos prohibidos.\n\nAmbientada en un mundo de nieve, sangre y runas mágicas, la historia combina la brutalidad de la mitología nórdica con un romance de alta tensión. Freya deberá aprender a dominar su magia mientras decide si el destino escrito por los dioses es una sentencia de muerte o el camino hacia su verdadera libertad en una tierra devastada por la guerra eterna.",
+    "imagen_portada": "/covers/9.jpg",
+    "año": 2024
+  },
+  {
+    "id": 10,
+    "nombre": "All the Colors of the Dark",
+    "autor": "Chris Whitaker",
+    "precio": 17900,
+    "stock": 45,
+    "categoria": "Misterio/Drama",
+    "resumen": "La desaparición de una joven desencadena una búsqueda que dura décadas en esta historia de amor y thriller.",
+    "resumen_extended": "En 1975, en un pequeño pueblo de Estados Unidos, la vida de Patch y Saint cambia para siempre cuando una compañera desaparece. Patch, un chico que se siente un pirata nacido en el siglo equivocado, realiza un acto heroico que lo marca físicamente y lo obsesiona con encontrar a los desaparecidos, iniciando un viaje que lo llevará por los rincones más oscuros del país durante los siguientes treinta años.\n\nSaint, su mejor amiga, dedica su vida a buscar a Patch mientras él busca a los demás, creando una red de amor, lealtad y misterio que atraviesa décadas. Whitaker escribe una novela ambiciosa que desafía los géneros, mezclando el suspenso de un asesino en serie con la ternura de una amistad inquebrantable, recordándonos que incluso en la oscuridad más profunda, los colores de la esperanza nunca se apagan del todo.",
+    "imagen_portada": "/covers/10.jpg",
+    "año": 2024
+  }
+]
